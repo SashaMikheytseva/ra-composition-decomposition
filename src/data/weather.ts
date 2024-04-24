@@ -1,0 +1,1 @@
+export const weather = {title: 'Погода', img: "https://png.pngtree.com/png-vector/20191002/ourmid/pngtree-heavy-rain-icon-in-cartoon-style-png-image_1784630.jpg", breafInfo:  '+17°', info: 'Утром +17, днём +20', link: '#'}
